@@ -1,0 +1,22 @@
+/* Tokens de referência — Ecommerce do Zero */
+:root {
+  --color-ink: #172720;
+  --color-forest: #16392f;
+  --color-forest-strong: #17392f;
+  --color-green: #c5fa63;
+  --color-green-soft: #eff8e8;
+  --color-page: #f4f6f2;
+  --color-surface: #ffffff;
+  --color-muted: #66736c;
+  --color-border: #e2e9e2;
+  --font-display: "Manrope", sans-serif;
+  --font-body: "DM Sans", sans-serif;
+  --font-mono: "DM Mono", monospace;
+  --font-accent: "Space Grotesk", sans-serif;
+  --content-max: 1440px;
+  --radius-control: 6px;
+  --radius-card: 8px;
+  --radius-panel: 14px;
+  --space-section-desktop: 74px;
+  --space-section-mobile: 52px;
+}

@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /docs/
+
+Sitemap: https://ecommercedozero.vercel.app/sitemap.xml
